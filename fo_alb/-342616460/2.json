@@ -1,53 +1,36 @@
-[
-  {
-    "id_img": "TheiDOLMSTER_606932_crop2608_458884635",
-    "lik": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmlhnDWtbdeSL08CM7OI1UcEg2l3JhY/1XaQf5Q4ICR5Vy4706IhQgSYlgwrgVRHU=",
-    "thub": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmlhnDWtbdeSL08CM7OI1UlzcntSCEZcJLsdtoRD7Th5Vy4706IhQgSYlgwrgVRHU=",
-    "albl": [
-      "Girls",
-      "The iDOLMSTER"
-    ],
-    "norl": [
-      "Chihaya Kisaragi"
-    ],
-    "spel": [
-      "Girls Eyes Brown",
-      "Girls Long Hair",
-      "Girls Hair Blue",
-      "Girls Smile",
-      "Girls Tie Bows",
-      "Girls Wedding"
-    ],
-    "i_top": 0,
-    "i_newest": 0,
-    "i_sgg": 0,
-    "h_img": 880,
-    "w_img": 572,
-    "date_img_modified": 1576942696039,
-    "file_size": "543.48 Kb"
-  },
-  {
-    "id_img": "TheiDOLMSTER_620537_crop2608_189851250",
-    "lik": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidu5qJVmIEt44czqKshtDgH+s6Tv2PJWGwm8yDqb+LTL5Vy4706IhQgSYlgwrgVRHU=",
-    "thub": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidu5qJVmIEt44czqKshtDgHAImMU/jyo/0/uqpjd98DGJVy4706IhQgSYlgwrgVRHU=",
-    "albl": [
-      "Girls",
-      "The iDOLMSTER"
-    ],
-    "norl": [
-      "Yukiho Hagiwara"
-    ],
-    "spel": [
-      "Girls Short Hair",
-      "Girls Tie Bows",
-      "Girls Hair Brow"
-    ],
-    "i_top": 0,
-    "i_newest": 0,
-    "i_sgg": 0,
-    "h_img": 960,
-    "w_img": 1280,
-    "date_img_modified": 1576942823333,
-    "file_size": "679.69 Kb"
-  }
-]
+{
+  "total": 1,
+  "data": [
+    {
+      "id_img": "TheiDOLMSTER_974067_crop2608_700826200",
+      "lik": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieN4VkwLP8HOfpXMm5zI3OY4QJl15RMHP246APT5ggP15Vy4706IhQgSYlgwrgVRHU=",
+      "thub": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieN4VkwLP8HOfpXMm5zI3OYwP3AFHEPcKJsLra5VwCyUJVy4706IhQgSYlgwrgVRHU=",
+      "albl": [
+        "Girls",
+        "The iDOLMSTER"
+      ],
+      "norl": [
+        "Yukiho Hagiwara",
+        "Makoto Kikuchi",
+        "Chihaya Kisaragi",
+        "Haruka Amami"
+      ],
+      "spel": [
+        "Girls Student",
+        "Girls Eyes Brown",
+        "Girls Long Hair",
+        "Girls Hats",
+        "Girls Hair Blue",
+        "Girls Smile",
+        "Girls Tie Bows"
+      ],
+      "i_top": 0,
+      "i_newest": 0,
+      "i_sgg": 0,
+      "h_img": 1080,
+      "w_img": 760,
+      "date_img_modified": 1645545987989,
+      "file_size": "97.46 Kb"
+    }
+  ]
+}
