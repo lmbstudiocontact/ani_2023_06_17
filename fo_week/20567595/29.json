@@ -1,23 +1,6 @@
 {
-  "total": 4665,
+  "total": 4664,
   "data": [
-    {
-      "id_img": "anime04_20230701090943_43_397",
-      "lik": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiflPh6CcTkSYKgCCRcWXfIqYuJZJ3xmlkdfVRi7tEwFjJVy4706IhQgSYlgwrgVRHU=",
-      "thub": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiflPh6CcTkSYKgCCRcWXfIqQcVxCaGb7+DA/SQu9G5QYJVy4706IhQgSYlgwrgVRHU=",
-      "albl": [
-        "Girls"
-      ],
-      "norl": [],
-      "spel": [],
-      "i_top": 0,
-      "i_newest": 0,
-      "i_sgg": 0,
-      "h_img": 1024,
-      "w_img": 768,
-      "date_img_modified": 1688177461350,
-      "file_size": "824.94 Kb"
-    },
     {
       "id_img": "anime04_20230701090943_43_398",
       "lik": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidC+YB/Seel4ed8m20NCvRon7Fchp0fdWRz3o3hHkjV7pVy4706IhQgSYlgwrgVRHU=",
@@ -1700,6 +1683,23 @@
       "w_img": 512,
       "date_img_modified": 1688126145001,
       "file_size": "647.31 Kb"
+    },
+    {
+      "id_img": "anime04_20230630184800_00_39",
+      "lik": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciSXLCZIk8anknnJltX/qNvho0qYudvTtSPY21DouAQ5Vy4706IhQgSYlgwrgVRHU=",
+      "thub": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciSXLCZIk8anknnJltX/qN25qYh/EnRYKgUE6LYYU1q5Vy4706IhQgSYlgwrgVRHU=",
+      "albl": [
+        "Girls"
+      ],
+      "norl": [],
+      "spel": [],
+      "i_top": 0,
+      "i_newest": 0,
+      "i_sgg": 0,
+      "h_img": 1920,
+      "w_img": 1280,
+      "date_img_modified": 1688126144058,
+      "file_size": "2.59 Mb"
     }
   ]
 }
